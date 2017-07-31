@@ -2,9 +2,12 @@
 
 #### *2016.01.04 ~ 2016.02.12*  
 
-Group Member : gustn85kr, JayStevency, mjsung, Seolhun, dlatlaud
-Part UI : gustn85kr, mjsung, Seolhun
-Part Net : JayStevency, dlatlaud
+- Team Member & Role
+	- 설 훈(본인) : 로그인 및 회원가입, 메인 화면, 대기실 구현
+	- 박현수(팀장) : 서버 및 게임 기능 구현
+	- 유재영 : DB구축 및 게임 기능 구현
+	- 성민재 : 캐릭터 디자인 및 대기실 구현
+
 
 #### *2017-07-14 ~ *  
 
