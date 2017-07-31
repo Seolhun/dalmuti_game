@@ -9,13 +9,14 @@
 	- 성민재 : 캐릭터 디자인 및 대기실 구현
 
 - Summary
-![1. Login](readme/sist_first_1.png)
 
-![1. Waiting Room](readme/sist_first_2.png)
+[1. Login](readme/sist_first_1.png)
 
-![1. Room & Game](readme/sist_first_3.png)
+[1. Waiting Room](readme/sist_first_2.png)
 
-![1. Summary](readme/sist_first_4.png)
+[1. Room & Game](readme/sist_first_3.png)
+
+[1. Summary](readme/sist_first_4.png)
 
 
 
