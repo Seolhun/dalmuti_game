@@ -1,6 +1,12 @@
-#Dalmuti_Card_Game
+# Game name : The Great Dalmuti
 
-#### *2017-04-07 ~ *  
+#### *2016.01.04 ~ 2016.02.12*  
+
+Group Member : gustn85kr, JayStevency, mjsung, Seolhun, dlatlaud
+Part UI : gustn85kr, mjsung, Seolhun
+Part Net : JayStevency, dlatlaud
+
+#### *2017-07-14 ~ *  
 
 - Type : 팀 프로젝트 -> 개인 프로젝트
 - IDE : Spring Tool Suite
@@ -9,9 +15,10 @@
 - Database : Oracle 11g
 
 ## 1. 프로젝트 목표.
-- Socket과 Thread 이해하기
+- Thread > Multi Thread
 - 기존 게임의 제한된 것을 리팩토링하는 것
 - 사용자가 나갈 시 자체 로직을 만들어 AI가 진행 할 수 있게 만드는 것.(**)
+- Docker Adapting
 
 
 ## 2. 문제점 및 해결방법 기록  
