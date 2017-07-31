@@ -6,6 +6,7 @@
 - IDE : Spring Tool Suite
 - JAVA : 1.8
 - OS : OSX  
+- Database : Oracle 11g
 
 ## 1. 프로젝트 목표.
 - Socket과 Thread 이해하기
