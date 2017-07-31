@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beans>
-	<bean id="userdao" class = "com.sist.common.UserDAO"/>
-	<bean id="memberdao" class = "com.sist.common.MemberDAO"/>
-</beans>
